@@ -9,7 +9,7 @@ Branch: Int.Mtech.cybersecurity
 Course Code: CSE0001
 University: VIT Bhopal University
 
-Project Overview
+Project Overview 
 This project was completed as part of the Digital Literacy course. The objective of this project is to develop awareness about effective use of digital tools, professional online presence, communication etiquette, and cyber safety.
 
 The project is divided into five tasks, each focusing on a different aspect of digital literacy.
